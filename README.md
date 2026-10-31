@@ -2,6 +2,8 @@
 
 Technical reports and research proposals by **Sami Halawa Ribas**, Independent Researcher, Madrid, Spain. ORCID: [0009-0002-2021-1983](https://orcid.org/0009-0002-2021-1983).
 
+Research contact: [sami@samihalawa.com](mailto:sami@samihalawa.com).
+
 ## Manuscripts
 
 | Work | Type | Canonical citation | Files |
