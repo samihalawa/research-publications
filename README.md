@@ -32,3 +32,7 @@ Halawa Ribas, S. (2026). *APOLO: An Inspectable Vision-Language Workflow for Med
 Halawa Ribas, S. (2026). *FERMED: A Description-First Framework for Reviewable Medical Image Interpretation*. Zenodo. https://doi.org/10.5281/zenodo.23816667
 
 The BibTeX files in the manuscript table provide machine-readable references. Repository copies and online-resource records do not imply peer review or clinical validation.
+
+## Bounded agent tool results (1 November 2026)
+
+[Bounded Tool Results with Explicit Coverage: A Reproducible Transport-Conformance Study](bounded-tool-results/paper.md) includes a [PDF](bounded-tool-results/paper.pdf), [case study](bounded-tool-results/case-study.md), executable Python reference implementation, 2,048 raw transport observations, five adversarial checks and a BibTeX citation. This is a synthetic engineering study, not an LLM accuracy benchmark or peer-reviewed paper.

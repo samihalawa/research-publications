@@ -1,0 +1,23 @@
+{
+  "title": "Bounded Tool Results with Explicit Coverage: A Reproducible Transport-Conformance Study",
+  "author": "Sami Halawa Ribas",
+  "orcid": "0009-0002-2021-1983",
+  "version": "1.0",
+  "date": "2026-11-01",
+  "type": "technical report",
+  "files": {
+    "LICENSE-code": "1f852b6bbbc77fec6a84e2490f748c863150dd62d15ee32fe89b3727a10f3460",
+    "README.md": "bc84eec6777399cac15e46c5921d4db754691c8c28e1b92ffd87a733d4c54331",
+    "benchmark.py": "18624ab97997dd8008b05a06d30b5190d8ebbdcf1786cfd3b25157734a78a0fc",
+    "case-study.md": "f5598c214aeca3df35affd3cfab437b46027a3366b8495c342a4e6fa8912d3a2",
+    "checks.json": "70425893e35aa703bdb1686cfcdbbbb51043fd1b74143d90138ae31e5f05657b",
+    "checks.py": "54fd0508df3397fd2c3445df3815885eb45595d8c4c8a09da5ac4f14d09dcc37",
+    "citation.bib": "4f75134112f508f501f8d7d45c36c972fce79d8075a20f3b4a7cb6eae9c71198",
+    "paper.md": "a14e00e14a821af6f1764994942f626080881678ca57bd710854dca4418e39a5",
+    "paper.pdf": "53b7ca9f2b966a0417a1239abd3986e5b04b4e21a1fe442a1416dc33571bb989",
+    "render.py": "2c945ccd51a7d5e3378c80cf546b77cd261e268967d824e5f929b6a06b01a033",
+    "results.csv": "8b3cb1f702636d41d1a457d4390f6047488c8aab5801751e97a36eb2d9bd0af4",
+    "results.csv.gz": "9d90534786f5c56253ccf64effd62b045a883661eaa560b67e9d509afaf53193",
+    "summary.json": "d8082c596a36c36ae54d616121d065ab25b70451cba5edc3f05518069e456c21"
+  }
+}

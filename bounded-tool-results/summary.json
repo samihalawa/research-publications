@@ -1,0 +1,59 @@
+{
+  "python": "3.12.14",
+  "configurations": 512,
+  "observations": 2048,
+  "summary": {
+    "blind_prefix": {
+      "configurations": 512,
+      "valid_json": 120,
+      "within_budget": 512,
+      "proof_present": 120,
+      "coverage_declared": 0,
+      "complete_recovery": 120,
+      "pages_mean": 1,
+      "resource_reads_mean": 0,
+      "resource_bytes_mean": 0,
+      "first_records_mean": 1.15625,
+      "pages_max": 1
+    },
+    "character_prefix": {
+      "configurations": 512,
+      "valid_json": 160,
+      "within_budget": 208,
+      "proof_present": 160,
+      "coverage_declared": 0,
+      "complete_recovery": 160,
+      "pages_mean": 1,
+      "resource_reads_mean": 0,
+      "resource_bytes_mean": 0,
+      "first_records_mean": 1.9375,
+      "pages_max": 1
+    },
+    "record_prefix": {
+      "configurations": 512,
+      "valid_json": 512,
+      "within_budget": 512,
+      "proof_present": 512,
+      "coverage_declared": 0,
+      "complete_recovery": 120,
+      "pages_mean": 1,
+      "resource_reads_mean": 0,
+      "resource_bytes_mean": 0,
+      "first_records_mean": 4.28125,
+      "pages_max": 1
+    },
+    "coverage": {
+      "configurations": 512,
+      "valid_json": 512,
+      "within_budget": 512,
+      "proof_present": 512,
+      "coverage_declared": 512,
+      "complete_recovery": 512,
+      "pages_mean": 25.59765625,
+      "resource_reads_mean": 16.50390625,
+      "resource_bytes_mean": 61406.9765625,
+      "first_records_mean": 4.4140625,
+      "pages_max": 128
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "passed": 5,
+  "checks": [
+    "empty_snapshot",
+    "envelope_underflow",
+    "unknown_cursor",
+    "resource_corruption",
+    "cross_snapshot_cursor"
+  ]
+}
