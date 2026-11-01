@@ -1,0 +1,78 @@
+{
+  "work": "Bounded Tool Results with Explicit Coverage: A Reproducible Transport-Conformance Study",
+  "version": "1.0",
+  "run_date": "2026-11-01",
+  "doi": null,
+  "destinations": [
+    {
+      "platform": "GitHub",
+      "status": "published_verified",
+      "url": "https://github.com/samihalawa/research-publications/tree/main/bounded-tool-results",
+      "commit": "56f6b6a0aae30bc1fe18be7c6a9e310631ad9aa6",
+      "verification": "Live paper.pdf, benchmark.py and results.csv.gz byte equality verified"
+    },
+    {
+      "platform": "samihalawa.com",
+      "status": "published_verified",
+      "url": "https://samihalawa.com/case-studies/bounded-agent-tool-results",
+      "commit": "a8422f1",
+      "verification": "Live HTTP 200; rendered article, all result rows and research-package link inspected"
+    },
+    {
+      "platform": "Zenodo",
+      "status": "not_submitted",
+      "next_action": "Resume only with an authenticated session or scoped deposit API credential. Linked ORCID password exists in 1Password; secure browser sign-in request was declined. No submission or DOI created."
+    },
+    {
+      "platform": "Figshare",
+      "status": "not_submitted",
+      "next_action": "Secure account authentication or existing scoped API token; 1Password account found"
+    },
+    {
+      "platform": "OSF",
+      "status": "not_submitted",
+      "next_action": "Secure ORCID sign-in or scoped API token; 1Password account found"
+    },
+    {
+      "platform": "ORCID",
+      "status": "citation_not_added",
+      "next_action": "Secure account authentication; ORCID 0009-0002-2021-1983 verified in existing publication"
+    },
+    {
+      "platform": "arXiv",
+      "status": "not_submitted",
+      "next_action": "Secure authentication and verify cs.AI endorsement; earlier APOLO endorsement request exists, no new request sent"
+    },
+    {
+      "platform": "Research Square",
+      "status": "not_submitted",
+      "next_action": "Secure authentication and current submission eligibility checks; 1Password account found"
+    },
+    {
+      "platform": "Preprints.org",
+      "status": "not_submitted",
+      "next_action": "Secure MDPI authentication; source format must be Word or LaTeX, and prior-posting policy must be respected"
+    },
+    {
+      "platform": "OpenReview",
+      "status": "not_submitted",
+      "next_action": "Verify profile activation and select an appropriate actual venue; saved 30 October record says activation pending, public recheck returned 403"
+    },
+    {
+      "platform": "TechRxiv",
+      "status": "not_submitted",
+      "next_action": "Verify service reopening; saved 30 October record says submissions temporarily closed and no account created; current public access returned 403"
+    },
+    {
+      "platform": "JOSS",
+      "status": "ineligible_for_this_new_software",
+      "next_action": "Requires at least six months of public development history; do not submit this newly created reference adapter"
+    },
+    {
+      "platform": "viXra",
+      "status": "not_submitted",
+      "next_action": "Existing APOLO submission is a different work; no receipt exists for this paper"
+    }
+  ],
+  "credential_access": "Provided Connect authenticated successfully; publication account metadata and linked ORCID record located in designated vault. No account credentials changed."
+}
